@@ -1,0 +1,23 @@
+[mattermost.plugin]
+team="yourteam" # CHANGE THIS
+login="youruser" # CHANGE THIS
+server="plugin" #DO NOT CHANGE THIS
+password="plugin" #DO NOT CHANGE THIS
+
+[slack.test]
+Token="xoxp-yourslacktoken"
+RemoteNickFormat="[{PROTOCOL}/{BRIDGE}] <{NICK}> "
+PrefixMessagesWithNick=false
+
+[[gateway]]
+name="plugin" #DO NOT CHANGE THIS
+enable=true
+
+	[[gateway.inout]]
+	account = "discord.test"
+	channel = "general"
+
+	[[gateway.inout]]
+	account = "mattermost.plugin" # DO NOT CHANGE THIS
+	channel = "town-square"
+

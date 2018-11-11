@@ -1,0 +1,6 @@
+id: matterbridge
+backend:
+    executable: plugin.exe
+name: matterbridge
+description: matterbridge
+version: '0.0.1'
