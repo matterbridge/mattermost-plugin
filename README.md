@@ -8,7 +8,7 @@ You have to create a `matterbridge.toml` configuration file before running `make
 Look at the [wiki](https://github.com/42wim/matterbridge/wiki/How-to-create-your-config) on how to create your configuration.
 You can also take a look at the `matterbridge.toml.sample` file.
 
-*IMPORTANT*:
+:warning: _IMPORTANT_ :warning:
 * the mattermost bridge to work with this plugin must be called `[mattermost.plugin]`
 * the `server` directive must be `server="plugin"`
 * the `password` directory must be `password="plugin"` 
@@ -23,11 +23,22 @@ server="plugin"
 password="plugin"
 ```
 
+## Binaries
+You can find binaries on https://github.com/matterbridge/mattermost-plugin/releases/latest
+Only tested on linux 64-bit!
+
+### Notes :warning:
+If you choose to install these preconfigured plugins you'll have to put manually a `matterbridge.toml` in the same directory as the plugin BEFORE enabling the plugin. See configurion above.
+
+See https://docs.mattermost.com/administration/plugins.html#plugin-uploads for more information about the plugins structure.
+
+
 ## Build
-Use go 1.11 if possible (only tested with this version)
+Use go 1.11 if possible (only tested with this version).
+
 You have to create a `matterbridge.toml` configuration file before running `make`. Because the configuration file will be added to the plugin.
 
-Look at the [wiki](https://github.com/42wim/matterbridge/wiki/How-to-create-your-config) on how to create your configuration.
+Look at the [wiki](https://github.com/42wim/matterbridge/wiki/How-to-create-your-config) on how to create your configuration.  
 You can also take a look at the `matterbridge.toml.sample` file. Keep in mind the IMPORTANT notice above.
 
 run `make`
