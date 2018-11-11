@@ -1,0 +1,270 @@
+# github.com/42wim/go-gitter v0.0.0-20170828205020-017310c2d557
+github.com/42wim/go-gitter
+# github.com/42wim/matterbridge v1.11.4-0.20181111214410-d2ae3ebf9e40
+github.com/42wim/matterbridge/bridge/config
+github.com/42wim/matterbridge/gateway
+github.com/42wim/matterbridge/bridge
+github.com/42wim/matterbridge/bridge/api
+github.com/42wim/matterbridge/bridge/discord
+github.com/42wim/matterbridge/bridge/gitter
+github.com/42wim/matterbridge/bridge/irc
+github.com/42wim/matterbridge/bridge/matrix
+github.com/42wim/matterbridge/bridge/mattermost
+github.com/42wim/matterbridge/bridge/rocketchat
+github.com/42wim/matterbridge/bridge/slack
+github.com/42wim/matterbridge/bridge/sshchat
+github.com/42wim/matterbridge/bridge/steam
+github.com/42wim/matterbridge/bridge/telegram
+github.com/42wim/matterbridge/bridge/xmpp
+github.com/42wim/matterbridge/bridge/zulip
+github.com/42wim/matterbridge/gateway/samechannel
+github.com/42wim/matterbridge/bridge/helper
+github.com/42wim/matterbridge/matterclient
+github.com/42wim/matterbridge/matterhook
+github.com/42wim/matterbridge/hook/rockethook
+# github.com/42wim/mattermost-server v0.0.0-20181110172656-6a99c7d1080c
+github.com/42wim/mattermost-server/model
+github.com/42wim/mattermost-server/plugin
+github.com/42wim/mattermost-server/mlog
+github.com/42wim/mattermost-server/utils/jsonutils
+github.com/42wim/mattermost-server/utils/markdown
+github.com/42wim/mattermost-server/utils
+github.com/42wim/mattermost-server/einterfaces
+# github.com/42wim/viper-mattermost v1.0.1-0.20181109222325-361b3a19bd48
+github.com/42wim/viper-mattermost
+# github.com/Philipp15b/go-steam v0.0.0-20161020161927-e0f3bb9566e3
+github.com/Philipp15b/go-steam
+github.com/Philipp15b/go-steam/protocol/steamlang
+github.com/Philipp15b/go-steam/steamid
+github.com/Philipp15b/go-steam/cryptoutil
+github.com/Philipp15b/go-steam/netutil
+github.com/Philipp15b/go-steam/protocol
+github.com/Philipp15b/go-steam/protocol/gamecoordinator
+github.com/Philipp15b/go-steam/protocol/protobuf
+github.com/Philipp15b/go-steam/rwu
+github.com/Philipp15b/go-steam/socialcache
+# github.com/alecthomas/log4go v0.0.0-20160307011253-e5dc62318d9b
+github.com/alecthomas/log4go
+# github.com/blang/semver v3.5.1+incompatible
+github.com/blang/semver
+# github.com/dfordsoft/golib v0.0.0-20180313113957-2ea3495aee1d
+github.com/dfordsoft/golib/ic
+# github.com/dgrijalva/jwt-go v0.0.0-20170508165458-6c8dedd55f8a
+github.com/dgrijalva/jwt-go
+# github.com/fsnotify/fsnotify v1.4.7
+github.com/fsnotify/fsnotify
+# github.com/go-telegram-bot-api/telegram-bot-api v0.0.0-20180428185002-212b1541150c
+github.com/go-telegram-bot-api/telegram-bot-api
+# github.com/golang/protobuf v1.2.0
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/protoc-gen-go/descriptor
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/google/uuid v1.0.0
+github.com/google/uuid
+# github.com/gorilla/schema v1.0.2
+github.com/gorilla/schema
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/hashicorp/go-hclog v0.0.0-20180910232447-e45cbeb79f04
+github.com/hashicorp/go-hclog
+# github.com/hashicorp/go-plugin v0.0.0-20180814222501-a4620f9913d1
+github.com/hashicorp/go-plugin
+# github.com/hashicorp/golang-lru v0.5.0
+github.com/hashicorp/golang-lru
+github.com/hashicorp/golang-lru/simplelru
+# github.com/hashicorp/hcl v1.0.0
+github.com/hashicorp/hcl
+github.com/hashicorp/hcl/hcl/printer
+github.com/hashicorp/hcl/hcl/ast
+github.com/hashicorp/hcl/hcl/parser
+github.com/hashicorp/hcl/hcl/token
+github.com/hashicorp/hcl/json/parser
+github.com/hashicorp/hcl/hcl/scanner
+github.com/hashicorp/hcl/hcl/strconv
+github.com/hashicorp/hcl/json/scanner
+github.com/hashicorp/hcl/json/token
+# github.com/hashicorp/yamux v0.0.0-20180917205041-7221087c3d28
+github.com/hashicorp/yamux
+# github.com/jpillora/backoff v0.0.0-20170222002228-06c7a16c845d
+github.com/jpillora/backoff
+# github.com/konsorten/go-windows-terminal-sequences v1.0.1
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/labstack/echo v0.0.0-20180219162101-7eec915044a1
+github.com/labstack/echo
+github.com/labstack/echo/middleware
+# github.com/labstack/gommon v0.2.1
+github.com/labstack/gommon/color
+github.com/labstack/gommon/log
+github.com/labstack/gommon/bytes
+github.com/labstack/gommon/random
+# github.com/lrstanley/girc v0.0.0-20180913221000-0fb5b684054e
+github.com/lrstanley/girc
+# github.com/magiconair/properties v1.8.0
+github.com/magiconair/properties
+# github.com/matterbridge/discordgo v0.0.0-20180806170629-ef40ff5ba64f
+github.com/matterbridge/discordgo
+# github.com/matterbridge/go-xmpp v0.0.0-20180529212104-cd19799fba91
+github.com/matterbridge/go-xmpp
+# github.com/matterbridge/gomatrix v0.0.0-20171224233421-78ac6a1a0f5f
+github.com/matterbridge/gomatrix
+# github.com/matterbridge/gozulipbot v0.0.0-20180507190239-b6bb12d33544
+github.com/matterbridge/gozulipbot
+# github.com/matterbridge/logrus-prefixed-formatter v0.0.0-20180806162718-01618749af61
+github.com/matterbridge/logrus-prefixed-formatter
+# github.com/mattermost/platform v4.6.2+incompatible
+github.com/mattermost/platform/model
+# github.com/mattn/go-colorable v0.0.0-20170210172801-5411d3eea597
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.0-20170216235908-dda3de49cbfc
+github.com/mattn/go-isatty
+# github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
+github.com/mgutz/ansi
+# github.com/mitchellh/go-testing-interface v1.0.0
+github.com/mitchellh/go-testing-interface
+# github.com/mitchellh/mapstructure v1.0.0
+github.com/mitchellh/mapstructure
+# github.com/mreiferson/go-httpclient v0.0.0-20160630210159-31f0106b4474
+github.com/mreiferson/go-httpclient
+# github.com/mrexodia/wray v0.0.0-20160318003008-78a2c1f284ff
+github.com/mrexodia/wray
+# github.com/nicksnyder/go-i18n v1.10.0
+github.com/nicksnyder/go-i18n/i18n
+github.com/nicksnyder/go-i18n/i18n/bundle
+github.com/nicksnyder/go-i18n/i18n/language
+github.com/nicksnyder/go-i18n/i18n/translation
+# github.com/nlopes/slack v0.4.0
+github.com/nlopes/slack
+github.com/nlopes/slack/slackutilsx
+# github.com/oklog/run v1.0.0
+github.com/oklog/run
+# github.com/paulrosania/go-charset v0.0.0-20151028000031-621bb39fcc83
+github.com/paulrosania/go-charset/charset
+github.com/paulrosania/go-charset/data
+# github.com/pborman/uuid v0.0.0-20180906182336-adf5a7427709
+github.com/pborman/uuid
+# github.com/pelletier/go-toml v1.2.0
+github.com/pelletier/go-toml
+# github.com/peterhellberg/emojilib v0.0.0-20170616163716-41920917e271
+github.com/peterhellberg/emojilib
+# github.com/pkg/errors v0.8.0
+github.com/pkg/errors
+# github.com/rs/xid v0.0.0-20180525034800-088c5cf1423a
+github.com/rs/xid
+# github.com/russross/blackfriday v2.0.0+incompatible
+github.com/russross/blackfriday
+# github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca
+github.com/saintfish/chardet
+# github.com/shazow/rateio v0.0.0-20150116013248-e8e00881e5c1
+github.com/shazow/rateio
+# github.com/shazow/ssh-chat v0.0.0-20171012174035-2078e1381991
+github.com/shazow/ssh-chat/sshd
+# github.com/shurcooL/sanitized_anchor_name v0.0.0-20170918181015-86672fcb3f95
+github.com/shurcooL/sanitized_anchor_name
+# github.com/sirupsen/logrus v1.2.0
+github.com/sirupsen/logrus
+# github.com/spf13/afero v1.1.2
+github.com/spf13/afero
+github.com/spf13/afero/mem
+# github.com/spf13/cast v1.2.0
+github.com/spf13/cast
+# github.com/spf13/jwalterweatherman v1.0.0
+github.com/spf13/jwalterweatherman
+# github.com/spf13/pflag v1.0.2
+github.com/spf13/pflag
+# github.com/spf13/viper v0.0.0-20171227194143-aafc9e6bc7b7
+github.com/spf13/viper
+# github.com/technoweenie/multipartstreamer v1.0.1
+github.com/technoweenie/multipartstreamer
+# github.com/valyala/bytebufferpool v0.0.0-20160817181652-e746df99fe4a
+github.com/valyala/bytebufferpool
+# github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4
+github.com/valyala/fasttemplate
+# github.com/zfjagann/golang-ring v0.0.0-20141111230621-17637388c9f6
+github.com/zfjagann/golang-ring
+# go.uber.org/atomic v1.3.2
+go.uber.org/atomic
+# go.uber.org/multierr v1.1.0
+go.uber.org/multierr
+# go.uber.org/zap v1.9.1
+go.uber.org/zap
+go.uber.org/zap/zapcore
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+# golang.org/x/crypto v0.0.0-20180927165925-5295e8364332
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/ssh/terminal
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/acme/autocert
+golang.org/x/crypto/nacl/secretbox
+golang.org/x/crypto/ssh
+golang.org/x/crypto/acme
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+golang.org/x/crypto/salsa20/salsa
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/internal/chacha20
+golang.org/x/crypto/ed25519/internal/edwards25519
+# golang.org/x/net v0.0.0-20180926154720-4dfa2610cdf3
+golang.org/x/net/context
+golang.org/x/net/trace
+golang.org/x/net/internal/timeseries
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/http/httpguts
+golang.org/x/net/idna
+# golang.org/x/sys v0.0.0-20180928133829-e4b3c5e90611
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.0
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
+golang.org/x/text/encoding
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/internal
+golang.org/x/text/secure/bidirule
+golang.org/x/text/unicode/bidi
+# google.golang.org/genproto v0.0.0-20180925191851-0e822944c569
+google.golang.org/genproto/googleapis/rpc/status
+# google.golang.org/grpc v1.15.0
+google.golang.org/grpc
+google.golang.org/grpc/credentials
+google.golang.org/grpc/health
+google.golang.org/grpc/health/grpc_health_v1
+google.golang.org/grpc/balancer
+google.golang.org/grpc/balancer/roundrobin
+google.golang.org/grpc/codes
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/encoding
+google.golang.org/grpc/encoding/proto
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/internal
+google.golang.org/grpc/internal/backoff
+google.golang.org/grpc/internal/channelz
+google.golang.org/grpc/internal/envconfig
+google.golang.org/grpc/internal/grpcrand
+google.golang.org/grpc/internal/transport
+google.golang.org/grpc/keepalive
+google.golang.org/grpc/metadata
+google.golang.org/grpc/naming
+google.golang.org/grpc/peer
+google.golang.org/grpc/resolver
+google.golang.org/grpc/resolver/dns
+google.golang.org/grpc/resolver/passthrough
+google.golang.org/grpc/stats
+google.golang.org/grpc/status
+google.golang.org/grpc/tap
+google.golang.org/grpc/balancer/base
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
+gopkg.in/natefinch/lumberjack.v2
+# gopkg.in/yaml.v2 v2.2.1
+gopkg.in/yaml.v2
