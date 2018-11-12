@@ -9,8 +9,8 @@ import (
 
 	"github.com/42wim/matterbridge/bridge/config"
 	"github.com/42wim/matterbridge/gateway"
-	"github.com/42wim/mattermost-server/model"
-	"github.com/42wim/mattermost-server/plugin"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/plugin"
 )
 
 type Plugin struct {

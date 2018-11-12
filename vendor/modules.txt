@@ -22,16 +22,6 @@ github.com/42wim/matterbridge/bridge/helper
 github.com/42wim/matterbridge/matterclient
 github.com/42wim/matterbridge/matterhook
 github.com/42wim/matterbridge/hook/rockethook
-# github.com/42wim/mattermost-server v0.0.0-20181110172656-6a99c7d1080c
-github.com/42wim/mattermost-server/model
-github.com/42wim/mattermost-server/plugin
-github.com/42wim/mattermost-server/mlog
-github.com/42wim/mattermost-server/utils/jsonutils
-github.com/42wim/mattermost-server/utils/markdown
-github.com/42wim/mattermost-server/utils
-github.com/42wim/mattermost-server/einterfaces
-# github.com/42wim/viper-mattermost v1.0.1-0.20181109222325-361b3a19bd48
-github.com/42wim/viper-mattermost
 # github.com/Philipp15b/go-steam v0.0.0-20161020161927-e0f3bb9566e3
 github.com/Philipp15b/go-steam
 github.com/Philipp15b/go-steam/protocol/steamlang
@@ -114,8 +104,18 @@ github.com/matterbridge/gomatrix
 github.com/matterbridge/gozulipbot
 # github.com/matterbridge/logrus-prefixed-formatter v0.0.0-20180806162718-01618749af61
 github.com/matterbridge/logrus-prefixed-formatter
+# github.com/mattermost/mattermost-server v5.2.0-rc2.0.20181109203431-7a758eae72b3+incompatible
+github.com/mattermost/mattermost-server/model
+github.com/mattermost/mattermost-server/plugin
+github.com/mattermost/mattermost-server/mlog
+github.com/mattermost/mattermost-server/utils/jsonutils
+github.com/mattermost/mattermost-server/utils/markdown
+github.com/mattermost/mattermost-server/utils
+github.com/mattermost/mattermost-server/einterfaces
 # github.com/mattermost/platform v4.6.2+incompatible
 github.com/mattermost/platform/model
+# github.com/mattermost/viper v1.0.1-0.20181112161711-f99c30686b86
+github.com/mattermost/viper
 # github.com/mattn/go-colorable v0.0.0-20170210172801-5411d3eea597
 github.com/mattn/go-colorable
 # github.com/mattn/go-isatty v0.0.0-20170216235908-dda3de49cbfc

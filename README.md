@@ -59,4 +59,4 @@ finished, upload plugin.tar.gz to mattermost
 ```
 
 ## Misc
-I'm using a mattermost-server fork github.com/42wim/mattermost-server because the upstream one isn't working correctly with go 1.11 modules yet.
+~~I'm using a mattermost-server fork github.com/42wim/mattermost-server because the upstream one isn't working correctly with go 1.11 modules yet.~~
